@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BanGiayAPI\\BanGiayAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BanGiayAPI\\BanGiayAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BanGiayAPI\\BanGiayAPI.csproj",
+        "projectName": "BanGiayAPI",
+        "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BanGiayAPI\\BanGiayAPI.csproj",
+        "packagesPath": "C:\\Users\\buito\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BanGiayAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\buito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BLL\\BLL.csproj"
+              },
+              "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\buito\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\buito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DAL\\DAL.csproj"
+              },
+              "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\buito\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\buito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\buito\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ Án & Bài Tập Lớn\\API Hướng Dịch Vụ\\BanGiayAPI\\DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\buito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

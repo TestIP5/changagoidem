@@ -1,0 +1,3 @@
+- [x] Add a helper function `truncateDescription` in src/components/Products.jsx to truncate the product description when it exceeds 50 characters, showing the first 2/3 and appending "..."
+- [x] Update the ShowProducts component to use the truncated description instead of the full `product.moTa`
+- [x] Verify the changes work as expected (optional: run the app to check)

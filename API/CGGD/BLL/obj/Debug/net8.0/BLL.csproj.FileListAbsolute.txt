@@ -1,0 +1,68 @@
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\BLL.dll
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\DAL.dll
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\DTO.dll
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\DAL.pdb
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\DTO.pdb
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.dll
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\BLL.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\BLL.pdb
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\DAL.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\DAL.pdb
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\BLL.pdb
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\Model.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\BLL\bin\Debug\net8.0\Model.pdb
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\bin\Debug\net8.0\BLL.dll
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\bin\Debug\net8.0\BLL.pdb
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\bin\Debug\net8.0\DAL.dll
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\bin\Debug\net8.0\Model.dll
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\bin\Debug\net8.0\DAL.pdb
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\bin\Debug\net8.0\Model.pdb
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\BLL.dll
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\BLL.pdb
+D:\TestIP24\API Hướng Dịch Vụ\CGGD\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\bin\Debug\net8.0\BLL.dll
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\bin\Debug\net8.0\BLL.pdb
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\bin\Debug\net8.0\DAL.dll
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\bin\Debug\net8.0\Model.dll
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\bin\Debug\net8.0\DAL.pdb
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\bin\Debug\net8.0\Model.pdb
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\BLL.dll
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\BLL.pdb
+D:\TestIP24\Đồ án tốt nghiệp\API\CGGD\BLL\obj\Debug\net8.0\ref\BLL.dll

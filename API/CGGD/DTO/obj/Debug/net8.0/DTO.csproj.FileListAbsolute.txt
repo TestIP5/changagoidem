@@ -1,0 +1,22 @@
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\bin\Debug\net8.0\DTO.dll
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\bin\Debug\net8.0\DTO.pdb
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.dll
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.pdb
+D:\Đồ Án & Bài Tập Lớn\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\bin\Debug\net8.0\DTO.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\bin\Debug\net8.0\DTO.pdb
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\DTO.pdb
+D:\TestIP24\API Hướng Dịch Vụ\BanGiayAPI\DTO\obj\Debug\net8.0\ref\DTO.dll

@@ -1,0 +1,787 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\controllers\\danhmucct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\controllers\\danhmucct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\sanphambientherp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\sanphambientherp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\sanphamrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\sanphamrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\sanphambienthe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\sanphambienthe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\interfaces\\isanphambientherp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\isanphambientherp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\interfaces\\isanphamrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\isanphamrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\bll\\interfaces\\isanphambienthebs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\isanphambienthebs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\bll\\sanphambienthebs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|solutionrelative:bll\\sanphambienthebs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\interfaces\\inguoidungrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\inguoidungrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\bll\\sanphambs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|solutionrelative:bll\\sanphambs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\bll\\interfaces\\isanphambs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\isanphambs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\bll\\donhangbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|solutionrelative:bll\\donhangbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\bll\\nguoidungbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|solutionrelative:bll\\nguoidungbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\binhluanrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\binhluanrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\binhluan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\binhluan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\nguoidungrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\nguoidungrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\donhangrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\donhangrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\ctgiohangrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\ctgiohangrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\giohangrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\giohangrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\danhmucrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\danhmucrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dto\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221F1D5F-E65D-4943-8624-5FCB8D1B645B}|DTO\\Model.csproj|solutionrelative:dto\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\connection\\dbulits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\connection\\dbulits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655F9109-DD8D-4769-99F4-64DEB18C099D}|OcelotAPI\\OcelotAPI.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\ocelotapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655F9109-DD8D-4769-99F4-64DEB18C099D}|OcelotAPI\\OcelotAPI.csproj|solutionrelative:ocelotapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\bll\\interfaces\\idonhangbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E361F3-D7B5-4763-A6D9-52C52C45B2A6}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\idonhangbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\dal\\interfaces\\idonhangrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C787D-E9C2-4A1D-8152-78E86E4C980E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\idonhangrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655F9109-DD8D-4769-99F4-64DEB18C099D}|OcelotAPI\\OcelotAPI.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\ocelotapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{655F9109-DD8D-4769-99F4-64DEB18C099D}|OcelotAPI\\OcelotAPI.csproj|solutionrelative:ocelotapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655F9109-DD8D-4769-99F4-64DEB18C099D}|OcelotAPI\\OcelotAPI.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\ocelotapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{655F9109-DD8D-4769-99F4-64DEB18C099D}|OcelotAPI\\OcelotAPI.csproj|solutionrelative:ocelotapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655F9109-DD8D-4769-99F4-64DEB18C099D}|OcelotAPI\\OcelotAPI.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\ocelotapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{655F9109-DD8D-4769-99F4-64DEB18C099D}|OcelotAPI\\OcelotAPI.csproj|solutionrelative:ocelotapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06BA1ED-9061-47DC-913F-73404EF0B2A8}|API_User\\API_User.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api_user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06BA1ED-9061-47DC-913F-73404EF0B2A8}|API_User\\API_User.csproj|solutionrelative:api_user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\controllers\\sanphambienthect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\controllers\\sanphambienthect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\controllers\\sanphamct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\controllers\\sanphamct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\controllers\\giohangct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\controllers\\giohangct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\controllers\\nguoidungct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\controllers\\nguoidungct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\controllers\\donhangct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\controllers\\donhangct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\controllers\\ctgiohangct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\controllers\\ctgiohangct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\controllers\\ctdonhangct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\controllers\\ctdonhangct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|d:\\testip24\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\api\\cggd\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B8DA86F7-78F3-401A-BE5E-E927A34E3B57}|API\\API_Admin.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T03:00:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISanPhamBienTheRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Interfaces\\ISanPhamBienTheRP.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ISanPhamBienTheRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Interfaces\\ISanPhamBienTheRP.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ISanPhamBienTheRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:30:22.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INguoiDungRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Interfaces\\INguoiDungRP.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\INguoiDungRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Interfaces\\INguoiDungRP.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\INguoiDungRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:39:25.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\SanPhamRP.cs",
+              "RelativeDocumentMoniker": "DAL\\SanPhamRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\SanPhamRP.cs",
+              "RelativeToolTip": "DAL\\SanPhamRP.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:55:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISanPhamBienTheBS.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\interfaces\\ISanPhamBienTheBS.cs",
+              "RelativeDocumentMoniker": "BLL\\interfaces\\ISanPhamBienTheBS.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\interfaces\\ISanPhamBienTheBS.cs",
+              "RelativeToolTip": "BLL\\interfaces\\ISanPhamBienTheBS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:51:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISanPhamRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Interfaces\\ISanPhamRP.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ISanPhamRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Interfaces\\ISanPhamRP.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ISanPhamRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:17:44.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhMucCT.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\DanhMucCT.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\DanhMucCT.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\DanhMucCT.cs",
+              "RelativeToolTip": "API\\Controllers\\DanhMucCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:59:15.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamBienThe.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\SanPhamBienThe.cs",
+              "RelativeDocumentMoniker": "DTO\\SanPhamBienThe.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\SanPhamBienThe.cs",
+              "RelativeToolTip": "DTO\\SanPhamBienThe.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:23:26.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamBienTheRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\SanPhamBienTheRP.cs",
+              "RelativeDocumentMoniker": "DAL\\SanPhamBienTheRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\SanPhamBienTheRP.cs",
+              "RelativeToolTip": "DAL\\SanPhamBienTheRP.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:29:02.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SanPhamBienTheCT.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\SanPhamBienTheCT.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SanPhamBienTheCT.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\SanPhamBienTheCT.cs",
+              "RelativeToolTip": "API\\Controllers\\SanPhamBienTheCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:15:53.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamBienTheBS.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\SanPhamBienTheBS.cs",
+              "RelativeDocumentMoniker": "BLL\\SanPhamBienTheBS.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\SanPhamBienTheBS.cs",
+              "RelativeToolTip": "BLL\\SanPhamBienTheBS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:12:27.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\SanPham.cs",
+              "RelativeDocumentMoniker": "DTO\\SanPham.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\SanPham.cs",
+              "RelativeToolTip": "DTO\\SanPham.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:55:46.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SanPhamCT.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\SanPhamCT.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SanPhamCT.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\SanPhamCT.cs",
+              "RelativeToolTip": "API\\Controllers\\SanPhamCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:17:52.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPhamBS.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\SanPhamBS.cs",
+              "RelativeDocumentMoniker": "BLL\\SanPhamBS.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\SanPhamBS.cs",
+              "RelativeToolTip": "BLL\\SanPhamBS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:17:46.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISanPhamBS.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\interfaces\\ISanPhamBS.cs",
+              "RelativeDocumentMoniker": "BLL\\interfaces\\ISanPhamBS.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\interfaces\\ISanPhamBS.cs",
+              "RelativeToolTip": "BLL\\interfaces\\ISanPhamBS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:16:57.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GioHangCT.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\GioHangCT.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\GioHangCT.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\GioHangCT.cs",
+              "RelativeToolTip": "API\\Controllers\\GioHangCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:59:15.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NguoiDungCT.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\NguoiDungCT.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\NguoiDungCT.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\NguoiDungCT.cs",
+              "RelativeToolTip": "API\\Controllers\\NguoiDungCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:59:16.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DonHangCT.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\DonHangCT.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\DonHangCT.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\DonHangCT.cs",
+              "RelativeToolTip": "API\\Controllers\\DonHangCT.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:59:20.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NguoiDungBS.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\NguoiDungBS.cs",
+              "RelativeDocumentMoniker": "BLL\\NguoiDungBS.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\NguoiDungBS.cs",
+              "RelativeToolTip": "BLL\\NguoiDungBS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T02:43:18.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DonHangBS.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\DonHangBS.cs",
+              "RelativeDocumentMoniker": "BLL\\DonHangBS.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\DonHangBS.cs",
+              "RelativeToolTip": "BLL\\DonHangBS.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:57:57.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BinhLuan.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\BinhLuan.cs",
+              "RelativeDocumentMoniker": "DTO\\BinhLuan.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\BinhLuan.cs",
+              "RelativeToolTip": "DTO\\BinhLuan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:15:55.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietDonHang.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\ChiTietDonHang.cs",
+              "RelativeToolTip": "DTO\\ChiTietDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:25:22.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\DonHang.cs",
+              "RelativeDocumentMoniker": "DTO\\DonHang.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\DonHang.cs",
+              "RelativeToolTip": "DTO\\DonHang.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:04:12.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BinhLuanRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\BinhLuanRP.cs",
+              "RelativeDocumentMoniker": "DAL\\BinhLuanRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\BinhLuanRP.cs",
+              "RelativeToolTip": "DAL\\BinhLuanRP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:26:56.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GioHangRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\GioHangRP.cs",
+              "RelativeDocumentMoniker": "DAL\\GioHangRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\GioHangRP.cs",
+              "RelativeToolTip": "DAL\\GioHangRP.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowDAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T00:47:45.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DbUlits.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Connection\\DbUlits.cs",
+              "RelativeDocumentMoniker": "DAL\\Connection\\DbUlits.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Connection\\DbUlits.cs",
+              "RelativeToolTip": "DAL\\Connection\\DbUlits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:15:24.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DanhMucRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\DanhMucRP.cs",
+              "RelativeDocumentMoniker": "DAL\\DanhMucRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\DanhMucRP.cs",
+              "RelativeToolTip": "DAL\\DanhMucRP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:16:26.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "DTO\\NguoiDung.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\NguoiDung.cs",
+              "RelativeToolTip": "DTO\\NguoiDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T02:05:00.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NguoiDungRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\NguoiDungRP.cs",
+              "RelativeDocumentMoniker": "DAL\\NguoiDungRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\NguoiDungRP.cs",
+              "RelativeToolTip": "DAL\\NguoiDungRP.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwJsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T02:02:42.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CTGioHangRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\CTGioHangRP.cs",
+              "RelativeDocumentMoniker": "DAL\\CTGioHangRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\CTGioHangRP.cs",
+              "RelativeToolTip": "DAL\\CTGioHangRP.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowGIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T00:47:50.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\Model.csproj",
+              "RelativeDocumentMoniker": "DTO\\Model.csproj",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\Model.csproj",
+              "RelativeToolTip": "DTO\\Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T07:07:37.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChiTietGioHang.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\ChiTietGioHang.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietGioHang.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\ChiTietGioHang.cs",
+              "RelativeToolTip": "DTO\\ChiTietGioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:31:43.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DonHangRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\DonHangRP.cs",
+              "RelativeDocumentMoniker": "DAL\\DonHangRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\DonHangRP.cs",
+              "RelativeToolTip": "DAL\\DonHangRP.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwKwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:32:15.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "DTO\\DanhMuc.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DTO\\DanhMuc.cs",
+              "RelativeToolTip": "DTO\\DanhMuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T01:28:54.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\OcelotAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OcelotAPI\\Program.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\OcelotAPI\\Program.cs",
+              "RelativeToolTip": "OcelotAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T03:18:34.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDonHangRP.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Interfaces\\IDonHangRP.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IDonHangRP.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\DAL\\Interfaces\\IDonHangRP.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IDonHangRP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:57:40.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDonHangBS.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\interfaces\\IDonHangBS.cs",
+              "RelativeDocumentMoniker": "BLL\\interfaces\\IDonHangBS.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\BLL\\interfaces\\IDonHangBS.cs",
+              "RelativeToolTip": "BLL\\interfaces\\IDonHangBS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:58:04.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\OcelotAPI\\ocelot.json",
+              "RelativeDocumentMoniker": "OcelotAPI\\ocelot.json",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\OcelotAPI\\ocelot.json",
+              "RelativeToolTip": "OcelotAPI\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T03:05:46.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CTGioHangCT.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\CTGioHangCT.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CTGioHangCT.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\CTGioHangCT.cs",
+              "RelativeToolTip": "API\\Controllers\\CTGioHangCT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T04:20:47.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-27T04:24:20.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CTDonHangCT.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\CTDonHangCT.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CTDonHangCT.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\Controllers\\CTDonHangCT.cs",
+              "RelativeToolTip": "API\\Controllers\\CTDonHangCT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T04:27:59.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\OcelotAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OcelotAPI\\appsettings.json",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\OcelotAPI\\appsettings.json",
+              "RelativeToolTip": "OcelotAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-27T02:47:25.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "API.http",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-27T04:24:10.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\OcelotAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OcelotAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\OcelotAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OcelotAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-27T02:47:26.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API_User\\Program.cs",
+              "RelativeDocumentMoniker": "API_User\\Program.cs",
+              "ToolTip": "D:\\TestIP24\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\API\\CGGD\\API_User\\Program.cs",
+              "RelativeToolTip": "API_User\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T03:00:29.39Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
