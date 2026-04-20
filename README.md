@@ -1,5 +1,5 @@
 
-
+MÔ TẢ ĐỀ TÀI
 
 Đề tài “Thiết kế website bán chăn ga gối đệm” nhằm xây dựng một hệ thống thương mại điện tử chuyên biệt cho lĩnh vực sản phẩm nội thất phòng ngủ, bao gồm chăn, ga, gối, đệm và các phụ kiện liên quan. Hệ thống được thiết kế từ đầu để đáp ứng nhu cầu mua sắm trực tuyến tiện lợi, an toàn và hiệu quả cho người dùng cá nhân, đồng thời cung cấp công cụ quản lý chuyên nghiệp cho chủ cửa hàng hoặc doanh nghiệp nhỏ.
 - Thông tin cơ bản về mô hình kinh doanh được mô phỏng:
@@ -15,6 +15,45 @@
   + Khuyến mãi hỗ trợ giảm %, số tiền cố định, miễn phí vận chuyển, áp dụng theo sản phẩm/danh mục/thương hiệu, voucher cá nhân hóa. 
   + Hậu mãi: Xử lý trả hàng (qua trạng thái đơn hàng và hoàn điểm), bảo hành, đánh giá sản phẩm. 
   + Phân quyền nhân viên chi tiết cho các vai trò: CSKH, bán hàng, kho.
+
+BACK-END:
+
+1. Docker — Vai trò: "Máy chủ Database"
+
+Docker giúp chạy PostgreSQL (cơ sở dữ liệu) một cách dễ dàng và sạch sẽ.
+Thay vì phải cài PostgreSQL trực tiếp lên máy tính (rất phiền phức), bạn chỉ cần chạy 1 lệnh docker-compose up -d là có ngay một máy chủ database chuyên nghiệp.
+Lợi ích:
+Dễ cài đặt
+Dễ backup, reset database
+Giống môi trường production (môi trường thật khi lên server)
+
+2. Prisma — Vai trò: "Cầu nối giữa Code và Database"
+Prisma là ORM (Object Relational Mapping) hiện đại và mạnh nhất hiện nay cho Node.js.
+Vai trò cụ thể:
+- Tự động đọc cấu trúc database (37 bảng) và sinh ra code để dễ sử dụng.
+- Cho phép bạn viết code JavaScript/TypeScript đơn giản thay vì viết SQL phức tạp.
+*Ví dụ thay vì viết:SQLSELECT * FROM "SanPham" WHERE is_deleted = false;Bạn chỉ cần viết:TypeScriptconst products = await prisma.sanPham.findMany();*
+
+Lợi ích lớn:
+
+- Tự động sinh type an toàn (không lo sai tên cột)
+- Hỗ trợ migrate database, seed data
+- Viết query nhanh và dễ bảo trì
+
+3. Express — Vai trò: "Khung xây dựng API"
+Express là framework web phổ biến nhất của Node.js.
+Vai trò:
+- Xây dựng các API endpoints (đường dẫn) mà Frontend (React, Next.js, Mobile app...) sẽ gọi.
+- Xử lý request từ client → xử lý logic → trả về response.
+Ví dụ:
+GET /sanpham     → trả danh sách sản phẩm
+POST /donhang    → tạo đơn hàng mới
+POST /auth/login → đăng nhập
+
+
+
+
+FRONT-END
 
 Giao diện trang chủ
 
